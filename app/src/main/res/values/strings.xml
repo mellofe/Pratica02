@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pratica02</string>
+    <string name="ttNome">Nome:</string>
+    <string name="ttIdade">Idade:</string>
+    <string name="ttPeso">Peso:</string>
+    <string name="ttAltura">Altura:</string>
+    <string name="button">Relatório Nutricional</string>
+    <string name="ttRelatorio">Relatório Nutricional</string>
+    <string name="button2">Realizar novo cálculo</string>
+    <string name="ttNome2">Nome:</string>
+    <string name="ttIdade2">Idade:</string>
+    <string name="ttPeso2">Peso:</string>
+    <string name="ttAltura2">Altura:</string>
+    <string name="ttIMC">IMC:</string>
+    <string name="ttClass">Classificação:</string>
+    <string name="editNome" />
+    <string name="editIdade"/>
+    <string name="editAltura"/>
+    <string name="editPeso" />
+</resources>
